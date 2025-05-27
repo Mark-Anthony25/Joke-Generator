@@ -68,7 +68,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Mark Anthony
 - GitHub: [@Mark-Anthony25](https://github.com/Mark-Anthony25)
-- Portfolio: [Portfolio Website](https://portfolio-website-lemon-one.vercel.app/)
+- [Portfolio Website](https://portfolio-website-lemon-one.vercel.app/)
 
 ## 🐛 Known Issues
 
