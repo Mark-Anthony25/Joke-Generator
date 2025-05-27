@@ -12,11 +12,11 @@ A fun and interactive web application that generates random jokes from various c
 
 ## 🚀 Live Demo
 
-[https://joke-generator-mark-anthony25s-projects.vercel.app/](#) <!-- Add your deployed project link here -->
+[View Live Demo](https://joke-generator-mark-anthony25s-projects.vercel.app/)
 
 ## 📸 Screenshot
 
-![Joke Generator Screenshot](Sample%20UI.png) <!-- Add a screenshot of your project here -->
+![Joke Generator Screenshot](Sample%20UI.png)
 
 ## 🛠️ Technologies Used
 
@@ -30,12 +30,12 @@ A fun and interactive web application that generates random jokes from various c
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/joke-generator.git
+git clone https://github.com/Mark-Anthony25/Joke-Generator.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd joke-generator
+cd Joke-Generator
 ```
 
 3. Open `index.html` in your preferred browser or use a local development server.
@@ -66,13 +66,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-Your Name
-- GitHub: [@Mark-Anthony25](#)
-- Portfolio: [https://portfolio-website-lemon-one.vercel.app/](#)
+Mark Anthony
+- GitHub: [@Mark-Anthony25](https://github.com/Mark-Anthony25)
+- Portfolio: [Portfolio Website](https://portfolio-website-lemon-one.vercel.app/)
 
 ## 🐛 Known Issues
 
-- None currently reported. Feel free to [open an issue](https://github.com/yourusername/joke-generator/issues) if you find any.
+- None currently reported. Feel free to [open an issue](https://github.com/Mark-Anthony25/Joke-Generator/issues) if you find any.
 
 ---
 Made with ❤️ and lots of laughs
